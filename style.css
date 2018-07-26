@@ -1,0 +1,41 @@
+html {
+height:100%; width:100%; background-color:white;
+}
+
+.container-fluid {
+height:15%; 
+text-align:center;
+background-color:#3981ce;
+color: White;
+}
+
+.container-fluid h2 {
+	padding-top:25px; 
+	font-size: 30px;
+}
+
+.pull-right img{
+height:30px;
+width:30px; 
+margin-left: 5px;
+
+}	
+
+/*#form-input {
+	margin-left:-100px;
+}*/
+
+.form-group {
+margin-top:80px;
+
+}
+
+#subm{
+	margin-left:50px;
+	height:38px;
+	width:100px;
+	background-color:#3981ce;
+}
+.dropdown-menu {
+	background-color:red;
+}
